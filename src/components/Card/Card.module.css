@@ -1,0 +1,14 @@
+.card {
+    background-color: rgb(194, 83, 221);
+    height: 250px;
+    width: 250px;
+    margin:30px;
+    display: inline-block;
+    text-align: center;
+   
+}
+.card img {
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
